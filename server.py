@@ -191,7 +191,7 @@ def fill_db():
     return "Done!"
 
 
-#start the server
+#start the 
 #debut true will restart the server automatically 
 app.run(debug = True)
 
