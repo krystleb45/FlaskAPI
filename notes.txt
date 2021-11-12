@@ -41,3 +41,10 @@ brew services stop mongodb-community@5.0
 
 #
 pip install -r requirements.txt
+
+### GIT CCONFIGURATION
+
+##FIRST TIME
+
+git config
+git 
